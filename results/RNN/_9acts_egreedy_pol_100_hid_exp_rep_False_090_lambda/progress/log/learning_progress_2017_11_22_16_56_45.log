@@ -1,0 +1,7 @@
+
+Env: 50x50, 3 planet(s), dist rwrd: 0.0, beacon speed: 0.0
+RNN agent, 9 actions, policy: e-greedy, 100 hidden units, exp replay False, 0.90 lambda
+
+   iter   |    simumation   |  score  success| init   final  steps | lrng    error   rnd
+          |       time      |           rate | dist   dist         | rate            act
+-----------------------------------------------------------------------------------------
